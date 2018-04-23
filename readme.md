@@ -5,6 +5,8 @@ terdapat 2 user dalam aplikasi ini:
 1. admin
 
 login page: localhost/nyanggar/index.php/s3cr3t
+
+
 username: admin
 password: admin
 
@@ -13,6 +15,8 @@ tugas user admin adalah memanajemen aplikasi nyanggar.id termasuk didalamnya ada
 2. user
 
 terdapat 2 user yaitu client dan penari:
+
+
 a. client
 adalah user yang memiliki kewenangan memesan jasa dalam aplikasi nyanggar.id, yaitu pesan jasa les menari dan pesan jada pertunjukan
 
