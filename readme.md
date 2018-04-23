@@ -1,3 +1,7 @@
+link aplikasi:
+http://nyanggar.ukmriptek.org
+
+
 Aplikasi Nyanggar.id ini merupakan platform yang menjembatani antara penari lokal dengan masyarakat. Sehingga para penari lokal dapat menawarkan jasanya melalui portal ini begitupun sebaliknya, masyarakat dapat mencari jasa penari melalui portal ini. Banyak aplikasi pencari jasa diluar sana namun setau saya belum ada platform khusus yang menyediakan untuk para penari lokal. Dan dengan adanya platform ini masyarakat bisa lebih mengenal tari-tarian khususnya tari tradisional di daerah mereka.
 
 terdapat 2 user dalam aplikasi ini:
