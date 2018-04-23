@@ -1,0 +1,169 @@
+@media (max-width: 480px) {
+	.menu-btn{
+		margin-left: 0%;
+	}.contain #slider{
+		height: 200px;
+		margin-top: -40px;
+	}.contain #slider .carousel-item,.contain #slider .carousel-inner{
+		width: 100%;
+		height: 200px;
+		overflow: hidden;
+	}.judul{
+		font-weight: bold;
+		font-size: 150%;
+		text-align: center;
+	}.contain .carousel-caption p{
+		font-size: 100%;
+		margin-top: -7%;
+	}.contain .carousel-caption{
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		margin-left: -15%;
+		padding: 0;
+		padding-bottom: 10%;
+		margin-top: 25%;
+		margin-bottom: -20px;
+		padding-top: 10%;
+		padding-right: 10%;
+		padding-left: 10%;
+	}.contain .wrap3,.contain .wrap4{
+		width: 90%;
+		margin : 0 auto;
+	}.contain #top .hidden2{
+		margin-left: -25px;
+	}.contain #right{
+		margin-left: 2%;
+	}.contain #left{
+		margin-left: 10%;
+	}.contain #banner img{
+		width: 700px;
+		margin-left: -200px;
+	}.contain #banner{
+		height: 200px;
+	}.contain #ruang .formcari .form-provinsi{
+		float: none;
+		width: 100%;
+		margin-bottom: 10px;
+	}.contain #ruang .formcari .form-kabupaten{
+		float: none;
+		width: 100%;
+		margin-bottom: 10px;
+	}.contain #ruang .formcari .form-kecamatan{
+		float: none;
+		width: 100%;
+		margin-bottom: 10px;
+	}.contain #apa ul li{
+		width: 50%;
+		margin-left: 20px;
+		margin-right: 20px;
+		margin-bottom: 50px;
+		display: inline-block;
+	}.contain #kenal .ii{
+		height: 180px;
+		margin-bottom: 50px;
+	}.contain #top #logos .logos{
+		width: 120px;
+	}
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+	.contain #slider{
+		height: 300px;
+	}.contain #slider .carousel-item,.contain #slider .carousel-inner{
+		width: 100%;
+		height: 300px;
+		overflow: hidden;
+	}.judul{
+		font-weight: bold;
+		font-size: 200%;
+		text-align: center;
+	}.contain .carousel-caption p{
+		font-size: 110%;
+		margin-top: -7%;
+	}.contain .carousel-caption{
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		margin-left: -15%;
+		padding: 0;
+		padding-bottom: 10%;
+		margin-top: 25%;
+		margin-bottom: -20px;
+		padding-top: 10%;
+		padding-right: 20%;
+		padding-left: 20%;
+	}.contain .wrap3,.contain .wrap4{
+		width: 80%;
+	}.contain #top .hidden2{
+		margin-left: -25px;
+	}.contain #right{
+		margin-left: 3%;
+	}.contain #banner{
+		width: 100%;
+		height: 250px;
+	}.contain #banner img{
+		width: 800px;
+	}.contain #ruang .formcari .form-provinsi{
+		float: none;
+		width: 100%;
+		margin-bottom: 10px;
+	}.contain #ruang .formcari .form-kabupaten{
+		float: none;
+		width: 100%;
+		margin-bottom: 10px;
+	}.contain #ruang .formcari .form-kecamatan{
+		float: none;
+		width: 100%;
+		margin-bottom: 10px;
+	}.contain #apa ul li{
+		width: 50%;
+		margin-left: 20px;
+		margin-right: 20px;
+		margin-bottom: 50px;
+		display: inline-block;
+	}.contain #kenal .ii{
+		height: 300px;
+		margin-bottom: 50px;
+	}
+}
+@media (min-width: 768px) and (max-width: 992px) { 
+	.contain #slider{
+		height: 400px;
+	}.contain #slider .carousel-item,.contain #slider .carousel-inner{
+		width: 100%;
+		height: 400px;
+		overflow: hidden;
+	}.judul{
+		font-weight: bold;
+		font-size: 250%;
+		text-align: center;
+	}.contain .carousel-caption p{
+		font-size: 120%;
+		margin-top: -7%;
+	}.contain .carousel-caption{
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		margin-left: -15%;
+		padding: 0;
+		padding-bottom: 10%;
+		margin-top: 25%;
+		margin-bottom: -20px;
+		padding-top: 10%;
+		padding-right: 25%;
+		padding-left: 25%;
+	}.contain .wrap3,.contain .wrap4{
+		width: 60%;
+	}.contain #top .hidden2{
+		margin-left: -15px;
+	}.contain #banner img{
+		width: 1000px;
+
+	}
+}
+@media (min-width: 992px) and (max-width: 1200px) { 
+}
+@media (min-width: 1200px) {
+
+}

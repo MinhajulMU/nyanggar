@@ -1,0 +1,42 @@
+html, body {
+  overflow-x: hidden;
+}
+
+/* Lists */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+#container {
+  position: relative;
+  padding: 20px 40px;
+  padding-top: 80px;
+}
+
+/* Menu Button */
+.menu-btn {
+  width: 110px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #FFF;
+  color: #d8780a;
+  text-align: center;
+  cursor: pointer;
+  border: 0px;
+  border :solid 2px #d8780a;
+  border-radius: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-top: 10px;
+  margin-left: 30%;
+}
+.menu-btn:hover {
+  background: #d8780a;
+  color: #FFF;
+  transition:  all 0.2s ease;
+}
+
+
+/*# sourceMappingURL=demo.css.map */
